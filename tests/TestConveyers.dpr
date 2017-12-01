@@ -10,7 +10,7 @@ uses
   System.SyncObjs,
   System.Diagnostics,
   System.Generics.Collections,
-  Conveyers in 'Conveyers.pas';
+  Conveyers in '..\units\Conveyers.pas';
 
 var
   Log1, Log2, Log3, Log4: TList<string>;
